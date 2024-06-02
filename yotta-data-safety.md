@@ -32,4 +32,4 @@ Upon receiving your account deletion request, we will:
 
 If you have any questions or concerns regarding your data or the deletion process, please contact us at `yotta098@gmail.com`. We are committed to protecting your privacy and ensuring the security of your information.
 
-Thank you for using Yotta Expo. We appreciate your cooperation in this matter.
+Thank you for using Yotta. We appreciate your cooperation in this matter.

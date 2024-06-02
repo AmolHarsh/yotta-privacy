@@ -6,4 +6,4 @@ Use the subject line "CUSTOMER FULL ACCOUNT DELETION REQUEST" for complete accou
 
 Once we receive your email, we will promptly delete all the data related to you and your account from our backend.
 
-Rest assured that we do not retain any data after the deletion process is complete. Thank you for using yotta, and we appreciate your cooperation in this matter.
+Rest assured that we do not retain any data after the deletion process is complete. Thank you for using yotta expo, and we appreciate your cooperation in this matter.

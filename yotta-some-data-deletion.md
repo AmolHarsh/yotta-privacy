@@ -2,7 +2,7 @@
 
 #### Request Partial Data Deletion
 
-If you wish to request the deletion of some or all of your data in the Yotta Expo app developed by Amol Harsh, without deleting your account, please follow these steps:
+If you wish to request the deletion of some or all of your data in the Yotta app ecosystem (this includes all the three apps Yotta Expo, Yotta Vendor and Yotta Delivery) developed by Amol Harsh, without deleting your account, please follow these steps:
 
 1. **Send an Email**: Compose an email to `yotta098@gmail.com`.
 2. **Subject Line**: Use the subject line "CUSTOMER DATA DELETION REQUEST".
@@ -33,4 +33,4 @@ Upon receiving your partial data deletion request, we will:
 
 If you have any questions or concerns regarding your data or the deletion process, please contact us at `yotta098@gmail.com`. We are committed to protecting your privacy and ensuring the security of your information.
 
-Thank you for using Yotta Expo. We appreciate your cooperation in this matter.
+Thank you for using Yotta. We appreciate your cooperation in this matter.

@@ -2,7 +2,7 @@
 
 #### Account Deletion Request
 
-To request the deletion of your account and associated data in the Yotta (this includes all the three apps Yotta Expo, Yotta Vendor and Yotta Delivery) apps developed by Amol Harsh, please follow these steps:
+To request the deletion of your account and associated data in the Yotta app ecosystem (this includes all the three apps Yotta Expo, Yotta Vendor and Yotta Delivery) apps developed by Amol Harsh, please follow these steps:
 
 1. **Send an Email**: Compose an email to `yotta098@gmail.com`.
 2. **Subject Line**: Use the subject line "CUSTOMER FULL ACCOUNT DELETION REQUEST" for complete account deletion.

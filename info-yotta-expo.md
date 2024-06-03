@@ -1,4 +1,4 @@
-# TestFlight Information for Yotta Expo - Customer App
+# Information for Yotta Expo - Customer App
 
 ## App Name:
 **Yotta Expo - Customer App**
